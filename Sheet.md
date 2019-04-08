@@ -1,4 +1,4 @@
-Tipos de datos: 
+##Tipos de datos: 
 
 // Byte. Hasta 255 
 
@@ -43,24 +43,20 @@ Concatenar variables y texto:
 
 Console.WriteLine( “Una frase” + variable03 + “ otra frase”) ; 
 
- 
 
-Operadores de asignación: 
-
+##Operadores de asignación: 
  
 
 // Dar valor a una variable = 
 
 Byte variable01 = 24 ; 
 
- 
 
 //Sumar a una variable. Método clásico. Convertirlo. 
 
 Byte variable01 = 24 ; 
 
 Variable01 = Convert.ToByte( edad + 10) ; 
-
  
 
 //Sumar a una variable. Método 2. operadores.  
@@ -68,14 +64,13 @@ Variable01 = Convert.ToByte( edad + 10) ;
 Byte variable01 = 24 ; 
 
 Variable01 += 10 ; 
-
  
 
 //Restar, multiplicar, dividir... 
 
  
 
-Operadores aritméticos: 
+##Operadores aritméticos: 
 
  
 
