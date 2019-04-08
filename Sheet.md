@@ -1,45 +1,44 @@
 ## Tipos de datos: 
 
-// Byte. Hasta 255 
+// **Byte**. Hasta 255 
 
 Byte variable00 = 255 ; 
 
 
-//Char. Solo un carácter 
+//**Char**. Solo un carácter 
 
 Char variable01 =  ‘W` ; 
 
 
-//Int. Entero. Un número negativo o positivo sin decimales. 
+//**Int**. Entero. Un número negativo o positivo sin decimales. 
 
 Int variable02 =  2004 ; 
 
 
-//Double. Con decimales. 
+//**Double**. Con decimales. 
 
 Double variable03 = 2004.7009 ; 
  
 
-// Bool. Booleano. Verdadero (0) o Falso (1). 
+// **Bool**. Booleano. Verdadero (0) o Falso (1). 
 
 Bool variable04 = True ; 
 
 
-//Enum. Enumeración listada. 
+//**Enum**. Enumeración listada. 
 
 Enum variable05 = { Lunes, Martes, Miercoles, Jueves, Viernes} 
 
 
-//String. Tipo de texto. 
+//**String**. Tipo de texto. 
 
 String variable06 = “Cadena de Texto” 
 
 
-Concatenar variables y texto: 
+## Concatenar variables y texto: 
 
- 
 
-// Se usa el símbolo + 
+// Se usa el símbolo **+** 
 
 Console.WriteLine( “Una frase” + variable03 + “ otra frase”) ; 
 
@@ -90,27 +89,27 @@ Int num=5, otronum=65 ;
 
 Int num=5, otronum=65 ; 
 
-Console.WriteLine(“El resultado suma es “+ (num + otronum)) ; 
+Console.WriteLine("El resultado suma es "+ (num + otronum)) ; 
 
-Console.WriteLine(“El resultado resta es “+ (num - otronum)) ; 
-
- 
+Console.WriteLine("El resultado resta es "+ (num - otronum)) ; 
 
  
 
-//Operaciones avanzadas con Math. Y comvertidas para decimales 
+ 
+
+//Operaciones avanzadas con Math. Y convertidas para decimales 
 
 Doble numero, potencia, resultado ; 
 
-Console.WriteLine(“Escribe el numero a elevar”); 
+Console.WriteLine("Escribe el numero a elevar"); 
 
 Convert.ToDoble(Console.ReadLine(numero)); 
 
-Console.WriteLine(“Escribe a lo que elevar”); 
+Console.WriteLine("Escribe a lo que elevar"); 
 
 Convert.ToDoble(Console.ReadLine(potencia)); 
 
-Console.WriteLine(“El resultado de elevar es “+ resultado ; 
+Console.WriteLine("El resultado de elevar es "+ resultado ; 
 
  
 
@@ -120,7 +119,7 @@ Console.WriteLine(resultado);
 
  
 
-Operadores relacionales y lógicos: 
+## Operadores relacionales y lógicos: 
 
  
 
@@ -164,7 +163,7 @@ Operadores relacionales y lógicos:
 
  
 
-Estructuras de control (condicionales): 
+## Estructuras de control (condicionales): 
 
  
 
@@ -176,9 +175,9 @@ Else {}
 
  
 
-If ( edad < 19) { Console.WriteLine(“Tiene menos de 19);} 
+If ( edad < 19) { Console.WriteLine("Tiene menos de 19");} 
 
-Else { Console.WriteLine(“Tiene más de 19);} 
+Else { Console.WriteLine("Tiene más de 19");} 
 
  
 
@@ -192,7 +191,7 @@ Catch () {}
 
 Try {} 
 
-Catch ( Exception error) {Console.WriteLine(Error.Message);} 
+Catch (Exception error) {Console.WriteLine(Error.Message);} 
 
  
 
@@ -204,19 +203,19 @@ Switch (){}
 
 Switch (dia){ 
 
-case 1: Console.WriteLine(“Ha elegido Lunes”); break; 
+case 1: Console.WriteLine("Ha elegido Lunes"); break; 
 
-case 2: Console.WriteLine(“Ha elegido Martes”); break; 
+case 2: Console.WriteLine("Ha elegido Martes"); break; 
 
-case “Miercoles”: Console.WriteLine(“Ha elegido Miercoles”); break; 
+case “Miercoles”: Console.WriteLine("Ha elegido Miercoles"); break; 
 
-default :Console.WriteLine (“No reconocido”); break; 
+default :Console.WriteLine ("No reconocido"); break; 
 
 } 
 
  
 
-Ciclos: 
+## Ciclos: 
 
  
 
@@ -236,17 +235,17 @@ Console.writeline (x);
 
 //foreach 
 
-String nombre = “Luis” 
+String nombre = "Luis" 
 
 Foreach (char letra in nombre) { 
 
-Console.Write( “ “ + letra + “ “); 
+Console.Write( " " + letra + " "); 
 
 } 
 
  
 
-Expresiones break, continue, goto: 
+## Expresiones break, continue, goto: 
 
  
 
@@ -302,7 +301,7 @@ Console.WriteLine(id);
 
 Liquidacion: 
 
-Console.WriteLine(“Se envio”); 
+Console.WriteLine("Se envio"); 
 
  
 
