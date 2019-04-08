@@ -1,4 +1,4 @@
-##Tipos de datos: 
+## Tipos de datos: 
 
 // Byte. Hasta 255 
 
@@ -44,7 +44,7 @@ Concatenar variables y texto:
 Console.WriteLine( “Una frase” + variable03 + “ otra frase”) ; 
 
 
-##Operadores de asignación: 
+## Operadores de asignación: 
  
 
 // Dar valor a una variable = 
@@ -70,7 +70,7 @@ Variable01 += 10 ;
 
  
 
-##Operadores aritméticos: 
+## Operadores aritméticos: 
 
  
 
