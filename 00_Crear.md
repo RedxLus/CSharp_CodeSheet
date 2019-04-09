@@ -21,3 +21,10 @@ Los sustantivos serán las **clases / objetos** :
 * Monstruo
 * Arma
 * Poción
+
+
+
+
+## Propiedades 
+Las propiedades de las clases u objetos se almacenan en una variable y podemos cambiarla segun el programa este corriendo.
+Tipos de variables.
