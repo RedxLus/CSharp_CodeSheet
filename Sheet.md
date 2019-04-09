@@ -67,21 +67,21 @@ Console.WriteLine("Una frase" + variable03 + " otra frase") ;
 
 // Dar valor a una variable = 
 
-Byte variable01 = 24 ; 
+byte variable01 = 24 ; 
 
 
 //Sumar a una variable. Método clásico. Convertirlo. 
 
-Byte variable01 = 24 ; 
+byte variable01 = 24 ; 
 
-Variable01 = Convert.ToByte(variable01 + 10) ; 
+variable01 = Convert.ToByte(variable01 + 10) ; 
  
 
 //Sumar a una variable. Método 2. operadores.  
 
-Byte variable01 = 24 ; 
+byte variable01 = 24 ; 
 
-Variable01 += 10 ; 
+variable01 += 10 ; 
  
 
 //Restar, multiplicar, dividir... 
@@ -118,7 +118,7 @@ Console.WriteLine("El resultado resta es "+ (num - otronum)) ;
 
 //Operaciones avanzadas con Math. Y convertidas para decimales 
 
-Doble numero, potencia, resultado ; 
+doble numero, potencia, resultado ; 
 
 Console.WriteLine("Escribe el numero a elevar"); 
 
@@ -154,7 +154,7 @@ Console.WriteLine(resultado);
 
 //Mayor o igual 
 
->= 
+\>= 
 
 //Menor o igual 
 
