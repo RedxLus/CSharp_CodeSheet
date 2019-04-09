@@ -16,7 +16,7 @@ Los sustantivos serán las **clases / objetos** :
 
 * Jugador
 * Ubicación
-* Objetos
+* Objeto
 * Misión
 * Monstruo
 * Arma
