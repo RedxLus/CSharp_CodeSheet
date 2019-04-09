@@ -7,7 +7,7 @@ Un Objeto es una entidad que tiene características y que puede realizar diferen
 Características (**Atributos**): Son las Variables. Por ejemplo en el objeto lápiz un atributo puede ser el color.
 
 
-Acciones (**métodos**): Son Verbos. Por ejemplo en el objeto lápiz un método seria escribir. 
+Acciones (**métodos**): Por ejemplo en el objeto lápiz un método seria escribir. 
 
 Un mismo objeto puede tener diferentes características. Una **clase** es un molde para crear objetos.
 
