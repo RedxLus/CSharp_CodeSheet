@@ -2,14 +2,14 @@
 
 Entidades (**Objetos**): Un lapiz, un borrador.
 
-Un Objeto es una entidad que tiene caracteristicas y que puede realizar diferentes acciones.
+Un Objeto es una entidad que tiene características y que puede realizar diferentes acciones.
 
-Caracteristicas (**Atributos**): Son las Variables
+Características (**Atributos**): Son las Variables
 
 
 Acciones (**métodos**)
 
-Un mismo objeto puede tener diferentes caracterisitcas. Una **clase** es un molde para crear objetos.
+Un mismo objeto puede tener diferentes características. Una **clase** es un molde para crear objetos.
 
 <p align="center">
  <img width="460" height="300" src="https://i.ibb.co/YQXjDs9/CLASES.png">
