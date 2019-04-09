@@ -1,7 +1,7 @@
 ## Definir
-* El `jugador` va a lugares.
+* El `jugador` va a `ubicaciones`.
 * El `jugador` puede necesitar ciertos `elementos` para ingresar a una `ubicación`.
-* La `ubicación` podría tener una `búsqueda` disponible.
+* La `ubicación` podría tener una `misión` disponible.
 * Para completar una `misión`, el `jugador` debe recoger ciertos `objetos` y entregarlos.
 * El `jugador` puede recoger `objetos` yendo a un lugar y luchando contra `monstruos` allí.
 * El `jugador` lucha contra `monstruos` con `armas`.
@@ -17,7 +17,7 @@ Entonces, los sustantivos (clases / objetos) en este juego serán:
 * Jugador
 * Ubicación
 * Objetos
-* Búsqueda
+* Misión
 * Monstruo
 * Arma
 * Poción
