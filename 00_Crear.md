@@ -1,5 +1,5 @@
 ## Definir
-* El jugador va a lugares.
+* El `jugador` va a lugares.
 * El jugador puede necesitar ciertos elementos para ingresar a una ubicación.
 * La ubicación podría tener una búsqueda disponible.
 * Para completar una misión, el jugador debe recoger ciertos elementos y entregarlos.
