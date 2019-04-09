@@ -1,12 +1,12 @@
 # Programación orientada a objetos: 
 
-Entidades (Objetos): Un lapiz, un borrador.
+Entidades (**Objetos**): Un lapiz, un borrador.
 Un Objeto es una entidad que tiene caracteristicas y que puede realizar diferentes acciones.
 
-Caracteristicas (Variables) (Atributos)
-Acciones (métodos)
+Caracteristicas (Variables) (**Atributos**)
+Acciones (**métodos**)
 
-Un mismo objeto puede tener diferentes caracterisitcas. Una clase es un molde para crear objetos.
+Un mismo objeto puede tener diferentes caracterisitcas. Una **clase** es un molde para crear objetos.
 
 ## Tipos de datos: 
 
