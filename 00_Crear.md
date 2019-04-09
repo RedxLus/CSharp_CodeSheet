@@ -12,7 +12,7 @@
 
 
 
-Entonces, los sustantivos (clases / objetos) en este juego serán:
+Los sustantivos serán las **clases / objetos** :
 
 * Jugador
 * Ubicación
