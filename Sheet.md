@@ -11,6 +11,12 @@ Acciones (**métodos**)
 
 Un mismo objeto puede tener diferentes caracterisitcas. Una **clase** es un molde para crear objetos.
 
+<p align="center">
+ <img width="460" height="300" src="https://i.ibb.co/YQXjDs9/CLASES.png">
+ </p>
+
+
+
 ## Tipos de datos: 
 
 // **Byte**. Hasta 255 
