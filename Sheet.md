@@ -10,9 +10,9 @@ Byte variable00 = 255 ;
 Char variable01 =  ‘W` ; 
 
 
-//**Int**. Entero. Un número negativo o positivo sin decimales. 
+//**int**. Entero. Un número negativo o positivo sin decimales. 
 
-Int variable02 =  2004 ; 
+int variable02 =  2004 ; 
 
 
 //**Double**. Con decimales. 
@@ -20,19 +20,19 @@ Int variable02 =  2004 ;
 Double variable03 = 2004.7009 ; 
  
 
-// **Bool**. Booleano. Verdadero (0) o Falso (1). 
+// **bool**. Booleano. Verdadero (0) o Falso (1). 
 
-Bool variable04 = True ; 
+bool variable04 = True ; 
 
 
 //**Enum**. Enumeración listada. 
 
-Enum variable05 = { Lunes, Martes, Miercoles, Jueves, Viernes} 
+Enum variable05 = { Lunes, Martes, Miercoles, Jueves, Viernes} ;
 
 
 //**String**. Tipo de texto. 
 
-String variable06 = “Cadena de Texto” 
+String variable06 = "Cadena de Texto" ; 
 
 
 ## Concatenar variables y texto: 
