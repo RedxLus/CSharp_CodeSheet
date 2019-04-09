@@ -7,7 +7,7 @@ Byte variable00 = 255 ;
 
 //**Char**. Solo un carácter 
 
-Char variable01 =  ‘W` ; 
+Char variable01 =  'W' ; 
 
 
 //**int**. Entero. Un número negativo o positivo sin decimales. 
@@ -22,12 +22,12 @@ Double variable03 = 2004.7009 ;
 
 // **bool**. Booleano. Verdadero (0) o Falso (1). 
 
-bool variable04 = True ; 
+bool variable04 = true ; 
 
 
-//**Enum**. Enumeración listada. 
+//**enum**. Enumeración listada. 
 
-Enum variable05 = { Lunes, Martes, Miercoles, Jueves, Viernes} ;
+enum variable05 { Lunes, Martes, Miercoles, Jueves, Viernes} ;
 
 
 //**String**. Tipo de texto. 
