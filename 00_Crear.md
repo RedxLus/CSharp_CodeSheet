@@ -27,4 +27,9 @@ Los sustantivos serán las **clases / objetos** :
 
 ## Propiedades 
 Las propiedades de las clases u objetos se almacenan en una variable y podemos cambiarla segun el programa este corriendo.
+
+Publica/privada
+
 Tipos de variables.
+
+{ get; set; }
