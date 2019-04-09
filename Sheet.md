@@ -2,37 +2,37 @@
 
 // **Byte**. Hasta 255 
 
-Byte variable00 = 255 ; 
+byte variable00 = 255 ; 
 
 
 //**Char**. Solo un carácter 
 
-Char variable01 =  'W' ; 
+char variable01 =  'W' ; 
 
 
-//**int**. Entero. Un número negativo o positivo sin decimales. 
+//**Int**. Entero. Un número negativo o positivo sin decimales. 
 
 int variable02 =  2004 ; 
 
 
 //**Double**. Con decimales. 
 
-Double variable03 = 2004.7009 ; 
+double variable03 = 2004.7009 ; 
  
 
-// **bool**. Booleano. Verdadero (0) o Falso (1). 
+// **Bool**. Booleano. Verdadero (0) o Falso (1). 
 
 bool variable04 = true ; 
 
 
-//**enum**. Enumeración listada. 
+//**Enum**. Enumeración listada. 
 
 enum variable05 { Lunes, Martes, Miercoles, Jueves, Viernes} ;
 
 
 //**String**. Tipo de texto. 
 
-String variable06 = "Cadena de Texto" ; 
+string variable06 = "Cadena de Texto" ; 
 
 
 ## Concatenar variables y texto: 
@@ -40,7 +40,7 @@ String variable06 = "Cadena de Texto" ;
 
 // Se usa el símbolo **+** 
 
-Console.WriteLine( “Una frase” + variable03 + “ otra frase”) ; 
+Console.WriteLine("Una frase" + variable03 + " otra frase") ; 
 
 
 ## Operadores de asignación: 
@@ -55,7 +55,7 @@ Byte variable01 = 24 ;
 
 Byte variable01 = 24 ; 
 
-Variable01 = Convert.ToByte( edad + 10) ; 
+Variable01 = Convert.ToByte(variable01 + 10) ; 
  
 
 //Sumar a una variable. Método 2. operadores.  
@@ -75,19 +75,19 @@ Variable01 += 10 ;
 
 Es lo mismo: 
 
-Int num = 5 ; 
+int num = 5 ; 
 
-Int otronum = 65 ; 
+int otronum = 65 ; 
 
 Que: 
 
-Int num=5, otronum=65 ; 
+int num=5, otronum=65 ; 
 
  
 
 //Operaciones Sencillas 
 
-Int num=5, otronum=65 ; 
+int num=5, otronum=65 ; 
 
 Console.WriteLine("El resultado suma es "+ (num + otronum)) ; 
 
