@@ -1,6 +1,7 @@
 # Programación orientada a objetos: 
 
 Entidades (**Objetos**): Un lapiz, un borrador.
+
 Un Objeto es una entidad que tiene caracteristicas y que puede realizar diferentes acciones.
 
 Caracteristicas (Variables) (**Atributos**)
