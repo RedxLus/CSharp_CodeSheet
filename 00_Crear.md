@@ -49,3 +49,5 @@ Principalmente son: Números enteros (integers) o palabras/frases (strings).
 * La cantidad de oro del Jugador
 * La cantidad de experencia del Jugador
 * El nivel del jugador
+
+El tipo de dato sera para todas estas propiedades Números enteros (integer). 
