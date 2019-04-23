@@ -39,6 +39,10 @@ Esto detras de una propiedad signica que va a obtener un valor (_get_), que va a
 ### class level variant
 Este tipo de variable va a ser vista por todo en la clase.
 
+### inheritance
+Herencia. Cuando las clases representan el mismo tipo de cosas y tienen propiedades similares.
+Se crea una clase BASE por ejemplo **Objeto** y las subclases serán **Arma** y **Poción**. Tambien crearemos una clase BASE llamada **Personajes** en la que estarán los Mounstros y el Jugador y compartiran las propiedades de salud maxima y salud actual.
+
 
 ## Tipos de datos
 Que tipo de datos van a ser cada variable.
