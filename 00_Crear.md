@@ -6,8 +6,8 @@
 * El `jugador` puede recoger `objetos` yendo a un lugar y luchando contra `monstruos` allí.
 * El `jugador` lucha contra `monstruos` con `armas`.
 * El `jugador` puede usar una `poción` para sanarse mientras lucha.
-* El `jugador` recibe objetos de `botín` después de derrotar a un `monstruo`.
-* Después de entregar la `misión`, el jugador recibe `objetos` de recompensa.
+* El `jugador` recibe objetos después de derrotar a un `monstruo`.
+* Al finalizar la `misión`, el jugador recibe `objetos` de recompensa.
 
 
 
