@@ -26,10 +26,21 @@ Los sustantivos serán las **clases / objetos** :
 
 
 ## Propiedades 
-Las propiedades de las clases u objetos se almacenan en una variable y podemos cambiarla segun el programa este corriendo.
+Las propiedades de las clases u objetos se almacenan en una variable y podemos cambiarla segun el programa este corriendo. Un ejemplo es la cantidad de oro que tiene el jugador.
 
 Publica/privada
 
 Tipos de variables.
 
 { get; set; }
+
+
+
+
+## Tipos de datos
+Que tipo de datos van a ser cada variable.
+
+Principalmente son: Números enteros (integers) o palabras/frases (strings).
+
+
+#### Propiedades de la clase: Jugador
