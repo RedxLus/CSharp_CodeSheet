@@ -36,7 +36,8 @@ _Public_ significa que va a ser visible desde todo el programa.
 { get; set; }
 Esto detras de una propiedad signica que va a obtener un valor (_get_), que va a leer lo que esta almacenado en la propiedad. Y va a establecer un valor (_set_), almacenar un valor en la propiedad.
 
-
+### class level variant
+Este tipo de variable va a ser vista por todo en la clase.
 
 
 ## Tipos de datos
