@@ -44,3 +44,8 @@ Principalmente son: Números enteros (integers) o palabras/frases (strings).
 
 
 #### Propiedades de la clase: Jugador
+* La salud actual del Jugador  (in case they've lost any during battle)
+* La salud maxima del Jugador (when they are fully healed)
+* La cantidad de oro del Jugador
+* La cantidad de experencia del Jugador
+* El nivel del jugador
