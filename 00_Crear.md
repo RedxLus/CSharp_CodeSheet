@@ -28,11 +28,13 @@ Los sustantivos serán las **clases / objetos** :
 ## Propiedades 
 Las propiedades de las clases u objetos se almacenan en una variable y podemos cambiarla segun el programa este corriendo. Un ejemplo es la cantidad de oro que tiene el jugador.
 
-Publica/privada
 
-Tipos de variables.
+### scope
+Principalmente vamos a utilizar Publica/privada. Las podemos poner delante tanto de una clase como de una propiedada.
+_Public_ significa que va a ser visible desde todo el programa.
 
 { get; set; }
+Esto detras de una propiedad signica que va a obtener un valor (_get_), que va a leer lo que esta almacenado en la propiedad. Y va a establecer un valor (_set_), almacenar un valor en la propiedad.
 
 
 
