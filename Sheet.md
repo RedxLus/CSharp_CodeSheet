@@ -17,6 +17,9 @@ Un mismo objeto puede tener diferentes características. Una **clase** es un mol
 
 
 
+## Namespace
+Similar a las librerias. Es una coleccion de clases a las que se hace refencia utilizando un prefijo seleccionado en el nombre de la clase.
+
 ## Tipos de datos: 
 
 // **Byte**. Hasta 255 
