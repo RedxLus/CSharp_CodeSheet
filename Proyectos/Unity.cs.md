@@ -4,4 +4,6 @@ public float tiempo = 1f;
 
 void Update() {
 
+velocidad = distancia / tiempo;
+
 }
