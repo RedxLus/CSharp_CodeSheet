@@ -18,7 +18,7 @@ Un mismo objeto puede tener diferentes características. Una **clase** es un mol
 
 
 ## Namespace
-Similar a las librerias. Es una coleccion de clases a las que se hace refencia utilizando un prefijo seleccionado en el nombre de la clase.
+Similar a las librerias. Es una coleccion de clases a las que se hace refencia utilizando un prefijo seleccionado en el nombre de la clase. El nombre de la clase y el fichero coinciden siempre.
 
 ## Tipos de datos: 
 
