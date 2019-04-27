@@ -249,6 +249,11 @@ For (inicializador, condición e iterador){acción}
 
 
 -
+inicialiador: Se va a ejecutar una vez. ANTES de entrar en el bucle.
+condicion
+iterador: Es lo que sucede cuando acaba el bucle y vuelve a ejecutarse.
+
+-
 
 
 For ( int x; x<=5; x++){ 
