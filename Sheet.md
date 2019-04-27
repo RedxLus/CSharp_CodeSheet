@@ -191,15 +191,17 @@ Console.WriteLine(resultado);
 
 //If simple 
 
-If () {} 
+If (condición) {acción} 
 
-Else {} 
+Else {acción} 
 
+
+-
  
 
-If ( edad < 19) { Console.WriteLine("Tiene menos de 19");} 
+if ( edad < 19) { Console.WriteLine("Tiene menos de 19");} 
 
-Else { Console.WriteLine("Tiene más de 19");} 
+else { Console.WriteLine("Tiene más de 19");} 
 
  
 
@@ -229,7 +231,7 @@ case 1: Console.WriteLine("Ha elegido Lunes"); break;
 
 case 2: Console.WriteLine("Ha elegido Martes"); break; 
 
-case “Miercoles”: Console.WriteLine("Ha elegido Miercoles"); break; 
+case "Miercoles": Console.WriteLine("Ha elegido Miercoles"); break; 
 
 default :Console.WriteLine ("No reconocido"); break; 
 
@@ -243,9 +245,11 @@ default :Console.WriteLine ("No reconocido"); break;
 
 //For simple. Repetir acciones. 
 
-For (){} 
+For (inicializador, condición e iterador){acción} 
 
- 
+
+-
+
 
 For ( int x; x<=5; x++){ 
 
