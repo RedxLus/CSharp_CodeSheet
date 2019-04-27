@@ -189,7 +189,7 @@ Console.WriteLine(resultado);
 
  
 
-//If simple 
+//**If** simple 
 
 If (condición) {acción} 
 
@@ -205,7 +205,7 @@ else { Console.WriteLine("Tiene más de 19");}
 
  
 
-//Try … catch. Para errores. 
+//**Try … catch**. Para errores. 
 
 Try {} 
 
@@ -215,11 +215,12 @@ Catch () {}
 
 Try {} 
 
+
 Catch (Exception error) {Console.WriteLine(Error.Message);} 
 
  
 
-//Switch.  
+//**Switch**.  
 
 Switch (){} 
 
@@ -243,7 +244,7 @@ default :Console.WriteLine ("No reconocido"); break;
 
  
 
-//For simple. Repetir acciones. 
+//**For** simple. Repetir acciones. 
 
 For (inicializador, condición e iterador){acción} 
 
@@ -264,7 +265,7 @@ Console.writeline (x);
 
  
 
-//foreach 
+//**foreach** 
 
 String nombre = "Luis" 
 
@@ -280,7 +281,7 @@ Console.Write( " " + letra + " ");
 
  
 
-//break 
+//**break **
 
 For ( int id; id <=5; id++) { 
 
@@ -296,7 +297,7 @@ Break;
 
  
 
-//Contiue 
+//**Contiue **
 
 For ( int id; id <=5; id++) { 
 
@@ -312,7 +313,7 @@ Console.WriteLine(id);
 
  
 
-//Goto 
+//**Goto** 
 
  
 
@@ -336,13 +337,13 @@ Console.WriteLine("Se envio");
 
  
 
-// While. Repetir instrucción mientras sea verdadera. Validar antes. 
+// **While**. Repetir instrucción mientras sea verdadera. Validar antes. 
 
  
 
  
 
-//DoWhile 
+//**DoWhile **
 
  
 
